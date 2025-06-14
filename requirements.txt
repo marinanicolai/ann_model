@@ -1,7 +1,7 @@
 streamlit
-numpy
 pandas
-scikit-learn
+numpy
 matplotlib
 seaborn
-tensorflow-cpu
+scikit-learn
+tensorflow==2.14.0
